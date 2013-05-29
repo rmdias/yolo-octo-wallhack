@@ -1,0 +1,1 @@
+var APP=APP||{};APP.Resposta_De_Postagem={_tela:null,setUp:function(){console.log("19")}};

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Persistence/Event
+END
+ManagerEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Persistence/Event/ManagerEventArgs.php
+END
+LifecycleEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Persistence/Event/LifecycleEventArgs.php
+END
+OnClearEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Persistence/Event/OnClearEventArgs.php
+END
+LoadClassMetadataEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Persistence/Event/LoadClassMetadataEventArgs.php
+END
+PreUpdateEventArgs.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Persistence/Event/PreUpdateEventArgs.php
+END

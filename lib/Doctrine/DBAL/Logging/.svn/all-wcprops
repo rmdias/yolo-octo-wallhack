@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Logging
+END
+DebugStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Logging/DebugStack.php
+END
+EchoSQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Logging/EchoSQLLogger.php
+END
+FacilSQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Logging/FacilSQLLogger.php
+END
+SQLLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Logging/SQLLogger.php
+END
+LoggerChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Logging/LoggerChain.php
+END

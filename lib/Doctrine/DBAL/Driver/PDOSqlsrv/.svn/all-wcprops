@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Driver/PDOSqlsrv
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Driver/PDOSqlsrv/Driver.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Driver/PDOSqlsrv/Connection.php
+END

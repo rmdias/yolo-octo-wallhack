@@ -1,0 +1,1 @@
+var APP=APP||{};APP.Carregamento.Dados_Associado={_tela:null,setUp:function(){$.ajax({url:"",data:{},dataType:"json",type:"POST",success:function(data){var nomeColaborador=data.nome,sobrenomeColaborador=data.sobrenome,nome=(data.categoria,$("#opcoes_usuario .nomeColaborador"));nome.text(nomeColaborador+" "+sobrenomeColaborador)}})}};

@@ -1,0 +1,1 @@
+var APP=APP||{};APP.Filtros=APP.Filtros||{},APP.Filtros.Tipo_De_Conteudo={_tela:null,setUp:function(){console.log("12")}};

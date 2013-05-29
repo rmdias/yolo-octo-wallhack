@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Sharding/ShardChoser
+END
+MultiTenantShardChoser.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Sharding/ShardChoser/MultiTenantShardChoser.php
+END
+ShardChoser.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Sharding/ShardChoser/ShardChoser.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr
+END
+Comparison.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr/Comparison.php
+END
+ClosureExpressionVisitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr/ClosureExpressionVisitor.php
+END
+Value.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr/Value.php
+END
+Expression.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr/Expression.php
+END
+ExpressionVisitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr/ExpressionVisitor.php
+END
+CompositeExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Collections/Expr/CompositeExpression.php
+END

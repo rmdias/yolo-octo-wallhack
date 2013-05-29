@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache
+END
+MemcachedCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/MemcachedCache.php
+END
+RedisCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/RedisCache.php
+END
+PhpFileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/PhpFileCache.php
+END
+CacheProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/CacheProvider.php
+END
+ZendDataCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/ZendDataCache.php
+END
+XcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/XcacheCache.php
+END
+ArrayCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/ArrayCache.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/Cache.php
+END
+FileCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/FileCache.php
+END
+WinCacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/WinCacheCache.php
+END
+MemcacheCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/MemcacheCache.php
+END
+ApcCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/ApcCache.php
+END
+FilesystemCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/Common/Cache/FilesystemCache.php
+END
