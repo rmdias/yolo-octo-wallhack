@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query
+END
+ParserResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/ParserResult.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/Parser.php
+END
+ParameterTypeInferer.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/ParameterTypeInferer.php
+END
+FilterCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/FilterCollection.php
+END
+TreeWalker.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/TreeWalker.php
+END
+SqlWalker.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/SqlWalker.php
+END
+TreeWalkerAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/TreeWalkerAdapter.php
+END
+ResultSetMapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/ResultSetMapping.php
+END
+TreeWalkerChain.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/TreeWalkerChain.php
+END
+ResultSetMappingBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/ResultSetMappingBuilder.php
+END
+Expr.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/Expr.php
+END
+Lexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/Lexer.php
+END
+Parameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/Parameter.php
+END
+Printer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/Printer.php
+END
+QueryException.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/ORM/Query/QueryException.php
+END

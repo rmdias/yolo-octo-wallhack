@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Query
+END
+QueryBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Query/QueryBuilder.php
+END
+QueryException.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Query/QueryException.php
+END

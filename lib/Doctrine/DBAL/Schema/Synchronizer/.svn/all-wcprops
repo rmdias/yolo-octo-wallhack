@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Schema/Synchronizer
+END
+SchemaSynchronizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Schema/Synchronizer/SchemaSynchronizer.php
+END
+AbstractSchemaSynchronizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Schema/Synchronizer/AbstractSchemaSynchronizer.php
+END
+SingleDatabaseSynchronizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/publiq_svn/!svn/ver/25/trunk/src-web/lib/Doctrine/DBAL/Schema/Synchronizer/SingleDatabaseSynchronizer.php
+END

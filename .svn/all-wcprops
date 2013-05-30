@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/publiq_svn/!svn/ver/41/trunk/src-web
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/publiq_svn/!svn/ver/37/trunk/src-web/package.json
+END
+Gruntfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/publiq_svn/!svn/ver/38/trunk/src-web/Gruntfile.js
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/publiq_svn/!svn/ver/25/trunk/src-web/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/publiq_svn/!svn/ver/25/trunk/src-web/index.php
+END
+readme.markdown
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/publiq_svn/!svn/ver/25/trunk/src-web/readme.markdown
+END
