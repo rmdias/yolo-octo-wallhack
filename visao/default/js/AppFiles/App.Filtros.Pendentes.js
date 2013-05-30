@@ -1,1 +1,0 @@
-var APP=APP||{};APP.Filtros=APP.Filtros||{},APP.Filtros.Pendentes={_tela:null,setUp:function(){console.log("9")}};
